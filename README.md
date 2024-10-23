@@ -1,3 +1,4 @@
 # React + Vite
 
-Live Preview : https://stopwatch-2024.netlify.app/
+Live Preview : 
+[Live](https://stopwatch-2024.netlify.app/)
