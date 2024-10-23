@@ -2,7 +2,7 @@
 
 Live Preview - [Live](https://stopwatch-2024.netlify.app/)
 
-I have created this focus times watch Using React.js and Tailwind.
+I have created this focus stopwatch Using React.js and Tailwind.
 
 ### Features 
 
